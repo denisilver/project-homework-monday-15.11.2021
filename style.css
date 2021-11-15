@@ -1,4 +1,5 @@
 .top {
+    display: flex;
     flex-direction: column;
     background-color: wheat;
 }
@@ -7,6 +8,7 @@
 }
 
 .middle {
+    display:flex;
     flex-direction: row;
     justify-self: unset;
     background-color: cadetblue;
