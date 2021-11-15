@@ -39,7 +39,7 @@
     background-color: chocolate;
 }
 
-.right{
+.right {
     display: flex;
     flex-direction: column;
     background-color: cornflowerblue;
