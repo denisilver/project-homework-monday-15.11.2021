@@ -8,8 +8,13 @@
 }
 
 .container {
-    display:flex;
+    display: flex;
     flex-direction: row;
     justify-self: unset;
     background-color: cadetblue;
+}
+.down-side{
+    display: flex;
+    flex-direction: row;
+    background-color: chocolate;
 }
