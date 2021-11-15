@@ -1,4 +1,7 @@
-.top{
+.top {
     flex-direction: column;
     background-color: wheat;
+}
+.h1 {
+    color: tomato;
 }
