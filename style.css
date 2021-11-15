@@ -19,6 +19,11 @@
     justify-self: unset;
     background-color: rgb(212, 231, 231);
 }
+
+.p{
+    color: darkblue;
+    padding: 15 px;
+}
 .down-side{
     display: flex;
     flex-direction: row;
