@@ -11,6 +11,8 @@
     flex-direction: column;
     justify-self: center;
     text-emphasis-color: red;
+    text-align: center;
+    padding: 45px;
 }
 
 .container {
