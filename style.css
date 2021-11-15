@@ -5,3 +5,9 @@
 .h1 {
     color: tomato;
 }
+
+.middle {
+    flex-direction: row;
+    justify-self: unset;
+    background-color: cadetblue;
+}
