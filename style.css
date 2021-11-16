@@ -51,3 +51,13 @@
     flex-direction: column;
     background-color: cornflowerblue;
 }
+
+.left
+{
+display: flex;
+flex-direction: column;
+padding-left: 10px;
+padding-top: 10px;
+padding-right: 10px;
+box-sizing: border-box;
+}
