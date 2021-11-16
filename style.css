@@ -48,7 +48,7 @@
 .center
 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     padding-right: 10px;
 
 }
