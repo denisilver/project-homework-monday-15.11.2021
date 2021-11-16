@@ -1,17 +1,20 @@
-.top {
+.top 
+{
     display: flex;
     flex-direction: column;
     background-color: wheat;
 }
 
-.h2 {
+.h2 
+{
     display: flex;
     font-size: 35px;
     color: deeppink;
 }
 
 }
-.main_2 {
+.main_2 
+{
     display: flex;
     flex-direction: column;
     justify-self: center;
@@ -21,25 +24,29 @@
     font-size: 45px;
 }
 
-.container {
+.container 
+{
     display: flex;
     flex-direction: row;
     justify-self: unset;
     background-color: rgb(212, 231, 231);
 }
 
-.p {
+.p 
+{
     font-size: 99px;
     color: darkblue;
     padding: 99px;
 }
-.down-side{
+.down-side
+{
     display: flex;
     flex-direction: row;
     background-color: chocolate;
 }
 
-.right {
+.right 
+{
     display: flex;
     flex-direction: column;
     background-color: cornflowerblue;
