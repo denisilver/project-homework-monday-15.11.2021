@@ -11,6 +11,7 @@
     color: lightcoral;
     font-size: 20px;
     box-sizing: border-box;
+    text-orientation: sideways-right;
 }
 
 .h2 
