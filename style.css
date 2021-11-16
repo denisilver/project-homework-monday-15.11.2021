@@ -67,14 +67,6 @@
     padding-top: 15px;
 }
 
-.right 
-{
-    display: flex;
-    flex-direction: column;
-    background-color: cornflowerblue;
-    box-sizing: border-box;
-}
-
 .left
 {
 display: flex;
