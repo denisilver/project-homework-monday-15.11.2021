@@ -55,6 +55,7 @@
     flex-direction: row;
     background-color: chocolate;
     box-sizing: border-box;
+    padding-top: 15px;
 }
 
 .right 
