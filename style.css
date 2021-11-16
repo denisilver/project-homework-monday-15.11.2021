@@ -23,6 +23,7 @@
     text-align: center;
     padding: 10px;
     font-size: 45px;
+    box-sizing: border-box;
 }
 
 .container 
@@ -53,6 +54,7 @@
     display: flex;
     flex-direction: row;
     background-color: chocolate;
+    box-sizing: border-box;
 }
 
 .right 
@@ -60,6 +62,7 @@
     display: flex;
     flex-direction: column;
     background-color: cornflowerblue;
+    box-sizing: border-box;
 }
 
 .left
