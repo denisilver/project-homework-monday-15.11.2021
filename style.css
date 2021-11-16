@@ -5,6 +5,11 @@
     background-color: wheat;
     
 }
+.navigation
+{
+    color: lightcoral;
+    font-size: 20px;
+}
 
 .h2 
 {
@@ -49,7 +54,7 @@
     color: darkblue;
     padding: 99px;
 }
-.down-side
+.page_down
 {
     display: flex;
     flex-direction: row;
