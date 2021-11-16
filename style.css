@@ -5,8 +5,10 @@
     background-color: wheat;
     
 }
-.navigation
+.nav
 {
+    display: flex;
+    flex-direction: column;
     background-color: lightpink;
     color: rgb(153, 83, 83);
     font-size: 20px;
