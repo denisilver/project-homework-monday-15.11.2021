@@ -75,14 +75,14 @@ padding-right: 10px;
 box-sizing: border-box;
 }
 
-.left top
+.left_top
 {
 display: flex;
 flex-direction: column;
 background-color: darkorchid;
 }
 
-.left down{
+.left_down{
     display: flex;
     flex-direction: column;
     background-color: goldenrod;
