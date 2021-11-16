@@ -89,3 +89,9 @@ background-color: darkorchid;
     flex-direction: column;
     background-color: goldenrod;
 }
+
+.img
+{
+    width: 200px;
+    height: 400px;
+}
