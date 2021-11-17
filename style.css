@@ -9,7 +9,7 @@
 .nav
 {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     background-color: lightpink;
     color: rgb(153, 83, 83);
